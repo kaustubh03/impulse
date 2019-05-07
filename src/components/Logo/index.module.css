@@ -1,0 +1,17 @@
+.logo {
+	text-align: center;
+	position: relative;
+	margin: 39px auto;
+	height: 128px;
+	line-height: 128px;
+}
+
+.logo a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.logo h1 {
+	font-size: 3em;
+	font-family: Lobster, cursive;
+}

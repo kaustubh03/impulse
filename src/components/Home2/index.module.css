@@ -1,0 +1,15 @@
+.bannerBg   {
+    position: relative;
+    color: #fff;
+    text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+    text-align: center;
+    /* background: #35b88f url(/static/media/banner.083ced96.svg) bottom center no-repeat; */
+    padding: 5em 0 5em 0;
+    margin: 0;
+    background-size: 125% auto;
+    background-size: cover !important;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}

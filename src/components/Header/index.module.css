@@ -1,0 +1,18 @@
+.headerParent{
+    width:100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 20px;
+        display: flex;
+    /* background: #fff; */
+}
+.authorTitleParent{
+    padding-left: 16px;
+}
+.authorTitle{
+        font-size: 22px;
+    letter-spacing: 5.8px;
+    
+    text-decoration: overline;
+}

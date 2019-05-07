@@ -1,0 +1,18 @@
+.quoteContainer{
+    width:800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quoteContainer header h2  {
+        font-weight: 400;
+    font-size: 1.75em;
+    letter-spacing: 8px;
+}
+.clockContainer{
+    position:fixed;
+    top:10px;
+    right:15px;
+    color:rgba(255, 255, 255, 0.54);
+    font-size:14px;
+}

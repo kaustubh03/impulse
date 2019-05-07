@@ -1,0 +1,4 @@
+export const QUOTES_LOADING = "QUOTES_LOADING";
+export const QUOTES_SUCCESS = "QUOTES_SUCCESS";
+export const QUOTES_FAILED = "QUOTES_FAILED";
+export const QUOTES_CLEAR = "QUOTES_CLEAR";
