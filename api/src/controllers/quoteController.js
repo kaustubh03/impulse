@@ -5,7 +5,7 @@ import quoteSchema from '../models/quoteModel'
 const Quote = mongoose.model("Quote", quoteSchema);
 export function countQuotes(string,callback){
   let total = null;
-  Quote.count({}, function(err, count) {
+  Quote.countDocuments({}, function(err, count) {
     if(err){
       // console.log(err);
       callback(null);
