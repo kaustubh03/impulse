@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./server.js --exec babel-node --presets babel-preset-env"
   },
+  "now":{
+    "engines":{
+      "node":"8.9.3"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
